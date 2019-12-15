@@ -28,6 +28,9 @@ end
         puts "invalid choice"
         backhome
       end
+    else 
+         puts"pin incorrect"
+        home
     end
 end
 
